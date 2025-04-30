@@ -1,3 +1,5 @@
-export default {
-    root: '.', // This tells Vite to use your current folder
-};
+import { defineConfig } from 'vite';
+
+export default defineConfig({
+    base: 'Data_Viz_Website_Storyline', // <-- Important!
+});
