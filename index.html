@@ -2,7 +2,9 @@
 <html>
 <head>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:,">
     <script src="functionality.js"></script>
+    <script type="module" src="src/index.ts"></script>
 </head>
 <body>
 <div class="main-container">
@@ -238,8 +240,18 @@
 
             <!-- placeholder -->
             <div class="placeholder2">
+                <div id="container" style="width: 768px; height: 400px;"></div>
+                <div id="controls">
+                    <div class="input"><label for="zoom-in">Zoom in</label><button id="zoom-in">+</button></div>
+                    <div class="input"><label for="zoom-out">Zoom out</label><button id="zoom-out">-</button></div>
+                    <div class="input"><label for="zoom-reset">Reset zoom</label><button id="zoom-reset">reset</button></div>
+                    <div class="input">
+                        <label for="labels-threshold">Labels threshold</label>
+                        <input id="labels-threshold" type="range" min="0" max="15" step="0.5" />
+                    </div>
                 <p>Visualization</p>
             </div>
+            <script type="module" src="/main.ts"></script>
         </div>
     </div>
 

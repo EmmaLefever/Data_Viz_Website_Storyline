@@ -2,9 +2,21 @@
   "name": "Website Storyline",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "graphology": "^0.26.0",
+    "graphology-gexf": "^0.13.2",
+    "sigma": "^3.0.1",
+    "vite": "^6.3.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
