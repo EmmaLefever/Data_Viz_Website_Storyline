@@ -159,6 +159,22 @@
     object-fit: cover;
 }
 
+.visualization-text p {
+    max-width: 800px;
+    margin: 0 auto 60px;
+    text-align: center;
+    line-height: 1.6;
+    font-size: 20px;
+}
+
+.topic-section p {
+    max-width: 800px;
+    margin: 0 auto 60px;
+    text-align: center;
+    line-height: 1.6;
+    font-size: 20px;
+}
+
 .topic-section h2 {
     font-size: 28px;
     margin-bottom: 30px;
@@ -273,6 +289,7 @@
 .ending-container {
     padding: 40px 20px;
     color: white;
+    background-color: rgb(188, 134, 143);
 }
 
 .ending-content {
