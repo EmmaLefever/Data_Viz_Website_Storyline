@@ -16,8 +16,8 @@
           <attvalue for="avg_sentiment" value="-0.696"/>
           <attvalue for="mentions" value="385"/>
         </attvalues>
-        <viz:size value="3.3809986"/>
-        <viz:position x="-27.17554" y="-28.745716"/>
+        <viz:size value="6.761997"/>
+        <viz:position x="-69.53648" y="-69.14542"/>
         <viz:color r="197" g="27" b="125"/>
       </node>
       <node id="2" label="Barack Obama">
@@ -25,8 +25,8 @@
           <attvalue for="avg_sentiment" value="-0.514"/>
           <attvalue for="mentions" value="2327"/>
         </attvalues>
-        <viz:size value="6.2050414"/>
-        <viz:position x="1.0994122" y="16.504372"/>
+        <viz:size value="12.410083"/>
+        <viz:position x="0.8206427" y="43.451275"/>
         <viz:color r="186" g="76" b="154"/>
       </node>
       <node id="15" label="Bernie Sanders">
@@ -34,8 +34,8 @@
           <attvalue for="avg_sentiment" value="-0.529"/>
           <attvalue for="mentions" value="189"/>
         </attvalues>
-        <viz:size value="3.0959768"/>
-        <viz:position x="-23.437695" y="22.46903"/>
+        <viz:size value="6.1919537"/>
+        <viz:position x="-60.235523" y="58.293255"/>
         <viz:color r="187" g="72" b="152" a="0.99607843"/>
       </node>
       <node id="19" label="Chuck Schumer">
@@ -43,8 +43,8 @@
           <attvalue for="avg_sentiment" value="-0.496"/>
           <attvalue for="mentions" value="129"/>
         </attvalues>
-        <viz:size value="3.0087252"/>
-        <viz:position x="-61.988575" y="-24.508995"/>
+        <viz:size value="6.0174503"/>
+        <viz:position x="-156.16246" y="-58.603096"/>
         <viz:color r="185" g="81" b="157"/>
       </node>
       <node id="14" label="Dan Scavino">
@@ -52,8 +52,8 @@
           <attvalue for="avg_sentiment" value="0.219"/>
           <attvalue for="mentions" value="192"/>
         </attvalues>
-        <viz:size value="3.1003394"/>
-        <viz:position x="33.782608" y="-30.914831"/>
+        <viz:size value="6.200679"/>
+        <viz:position x="82.146904" y="-74.54287"/>
         <viz:color r="128" g="181" b="157"/>
       </node>
       <node id="1" label="Donald Trump">
@@ -61,8 +61,8 @@
           <attvalue for="avg_sentiment" value="0.206"/>
           <attvalue for="mentions" value="6312"/>
         </attvalues>
-        <viz:size value="12.0"/>
-        <viz:position x="10.017329" y="-5.076278"/>
+        <viz:size value="24.0"/>
+        <viz:position x="23.011274" y="-10.248284"/>
         <viz:color r="130" g="182" b="161"/>
       </node>
       <node id="18" label="Gregg Jarrett">
@@ -70,8 +70,8 @@
           <attvalue for="avg_sentiment" value="-0.229"/>
           <attvalue for="mentions" value="131"/>
         </attvalues>
-        <viz:size value="3.0116336"/>
-        <viz:position x="-8.766852" y="-26.658535"/>
+        <viz:size value="6.0232673"/>
+        <viz:position x="-23.72978" y="-63.95184"/>
         <viz:color r="170" g="153" b="201"/>
       </node>
       <node id="3" label="Hillary Clinton">
@@ -79,8 +79,8 @@
           <attvalue for="avg_sentiment" value="-0.613"/>
           <attvalue for="mentions" value="1255"/>
         </attvalues>
-        <viz:size value="4.6461463"/>
-        <viz:position x="-15.905971" y="6.7305126"/>
+        <viz:size value="9.292293"/>
+        <viz:position x="-41.49419" y="19.130789"/>
         <viz:color r="192" g="49" b="138"/>
       </node>
       <node id="10" label="James Comey">
@@ -88,8 +88,8 @@
           <attvalue for="avg_sentiment" value="-0.682"/>
           <attvalue for="mentions" value="242"/>
         </attvalues>
-        <viz:size value="3.173049"/>
-        <viz:position x="-32.172104" y="7.5956187"/>
+        <viz:size value="6.346098"/>
+        <viz:position x="-81.969536" y="21.283451"/>
         <viz:color r="196" g="30" b="127"/>
       </node>
       <node id="4" label="Joe Biden">
@@ -97,8 +97,8 @@
           <attvalue for="avg_sentiment" value="-0.433"/>
           <attvalue for="mentions" value="1189"/>
         </attvalues>
-        <viz:size value="4.55017"/>
-        <viz:position x="-11.607371" y="-9.94126"/>
+        <viz:size value="9.10034"/>
+        <viz:position x="-30.7979" y="-22.353918"/>
         <viz:color r="182" g="98" b="168"/>
       </node>
       <node id="20" label="Lou Dobbs">
@@ -106,8 +106,8 @@
           <attvalue for="avg_sentiment" value="0.138"/>
           <attvalue for="mentions" value="123"/>
         </attvalues>
-        <viz:size value="3.0"/>
-        <viz:position x="5.6504984" y="-39.343937"/>
+        <viz:size value="6.0"/>
+        <viz:position x="12.145202" y="-95.51719"/>
         <viz:color r="138" g="188" b="180"/>
       </node>
       <node id="7" label="Nancy Pelosi">
@@ -115,8 +115,8 @@
           <attvalue for="avg_sentiment" value="-0.517"/>
           <attvalue for="mentions" value="381"/>
         </attvalues>
-        <viz:size value="3.3751817"/>
-        <viz:position x="-42.320335" y="-23.408966"/>
+        <viz:size value="6.7503633"/>
+        <viz:position x="-107.22158" y="-55.865875"/>
         <viz:color r="186" g="75" b="154"/>
       </node>
       <node id="9" label="Robert Mueller">
@@ -124,8 +124,8 @@
           <attvalue for="avg_sentiment" value="-0.623"/>
           <attvalue for="mentions" value="265"/>
         </attvalues>
-        <viz:size value="3.2064953"/>
-        <viz:position x="-27.44622" y="-7.2692165"/>
+        <viz:size value="6.4129906"/>
+        <viz:position x="-70.21002" y="-15.705016"/>
         <viz:color r="192" g="46" b="137"/>
       </node>
       <node id="17" label="Bush">
@@ -133,8 +133,8 @@
           <attvalue for="avg_sentiment" value="-0.424"/>
           <attvalue for="mentions" value="132"/>
         </attvalues>
-        <viz:size value="3.0130877"/>
-        <viz:position x="28.599085" y="4.64803"/>
+        <viz:size value="6.0261755"/>
+        <viz:position x="69.248634" y="13.948905"/>
         <viz:color r="181" g="100" b="169" a="0.99607843"/>
       </node>
       <node id="11" label="Ivanka Trump">
@@ -142,8 +142,8 @@
           <attvalue for="avg_sentiment" value="0.636"/>
           <attvalue for="mentions" value="236"/>
         </attvalues>
-        <viz:size value="3.1643238"/>
-        <viz:position x="50.620026" y="-10.172675"/>
+        <viz:size value="6.3286476"/>
+        <viz:position x="124.04378" y="-22.929749"/>
         <viz:color r="80" g="148" b="40"/>
       </node>
       <node id="12" label="Jeb Bush">
@@ -151,8 +151,8 @@
           <attvalue for="avg_sentiment" value="-0.624"/>
           <attvalue for="mentions" value="234"/>
         </attvalues>
-        <viz:size value="3.1614153"/>
-        <viz:position x="18.602133" y="16.835443"/>
+        <viz:size value="6.3228307"/>
+        <viz:position x="44.373013" y="44.27509"/>
         <viz:color r="192" g="46" b="136"/>
       </node>
       <node id="16" label="Marco Rubio">
@@ -160,8 +160,8 @@
           <attvalue for="avg_sentiment" value="-0.423"/>
           <attvalue for="mentions" value="156"/>
         </attvalues>
-        <viz:size value="3.0479884"/>
-        <viz:position x="34.01611" y="20.379055"/>
+        <viz:size value="6.095977"/>
+        <viz:position x="82.72791" y="53.09273"/>
         <viz:color r="181" g="100" b="169"/>
       </node>
       <node id="13" label="Melania Trump">
@@ -169,8 +169,8 @@
           <attvalue for="avg_sentiment" value="0.662"/>
           <attvalue for="mentions" value="201"/>
         </attvalues>
-        <viz:size value="3.1134272"/>
-        <viz:position x="66.615135" y="11.754511"/>
+        <viz:size value="6.2268543"/>
+        <viz:position x="163.84473" y="31.632107"/>
         <viz:color r="77" g="146" b="33"/>
       </node>
       <node id="5" label="Mitt Romney">
@@ -178,8 +178,8 @@
           <attvalue for="avg_sentiment" value="-0.172"/>
           <attvalue for="mentions" value="443"/>
         </attvalues>
-        <viz:size value="3.4653418"/>
-        <viz:position x="5.58417" y="34.30395"/>
+        <viz:size value="6.9306836"/>
+        <viz:position x="11.980156" y="87.742325"/>
         <viz:color r="167" g="168" b="211"/>
       </node>
       <node id="8" label="Ted Cruz">
@@ -187,8 +187,8 @@
           <attvalue for="avg_sentiment" value="-0.508"/>
           <attvalue for="mentions" value="319"/>
         </attvalues>
-        <viz:size value="3.2850218"/>
-        <viz:position x="21.96849" y="32.795586"/>
+        <viz:size value="6.5700436"/>
+        <viz:position x="52.749588" y="83.98903"/>
         <viz:color r="186" g="77" b="155"/>
       </node>
     </nodes>
