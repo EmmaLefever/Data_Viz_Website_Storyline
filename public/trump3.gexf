@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2025-05-13">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="type" title="type" type="string"/>
+      <attribute id="avg_sentiment" title="avg_sentiment" type="double"/>
+      <attribute id="mentions" title="mentions" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="6" label="Adam Schiff">
+        <attvalues>
+          <attvalue for="type" value="Democrat"/>
+          <attvalue for="avg_sentiment" value="-0.696"/>
+          <attvalue for="mentions" value="385"/>
+        </attvalues>
+        <viz:size value="1.1693327"/>
+        <viz:position x="-27.17554" y="-28.745716"/>
+        <viz:color r="197" g="27" b="125"/>
+      </node>
+      <node id="2" label="Barack Obama">
+        <attvalues>
+          <attvalue for="type" value="Democrat"/>
+          <attvalue for="avg_sentiment" value="-0.514"/>
+          <attvalue for="mentions" value="2327"/>
+        </attvalues>
+        <viz:size value="2.4244628"/>
+        <viz:position x="1.0994122" y="16.504372"/>
+        <viz:color r="186" g="76" b="154"/>
+      </node>
+      <node id="15" label="Bernie Sanders">
+        <attvalues>
+          <attvalue for="type" value="Democrat"/>
+          <attvalue for="avg_sentiment" value="-0.529"/>
+          <attvalue for="mentions" value="189"/>
+        </attvalues>
+        <viz:size value="1.0426563"/>
+        <viz:position x="-23.437695" y="22.46903"/>
+        <viz:color r="187" g="72" b="152" a="0.99607843"/>
+      </node>
+      <node id="19" label="Chuck Schumer">
+        <attvalues>
+          <attvalue for="type" value="Democrat"/>
+          <attvalue for="avg_sentiment" value="-0.496"/>
+          <attvalue for="mentions" value="129"/>
+        </attvalues>
+        <viz:size value="1.0038779"/>
+        <viz:position x="-61.988575" y="-24.508995"/>
+        <viz:color r="185" g="81" b="157"/>
+      </node>
+      <node id="14" label="Dan Scavino">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="avg_sentiment" value="0.219"/>
+          <attvalue for="mentions" value="192"/>
+        </attvalues>
+        <viz:size value="1.0445952"/>
+        <viz:position x="33.782608" y="-30.914831"/>
+        <viz:color r="128" g="181" b="157"/>
+      </node>
+      <node id="1" label="Donald Trump">
+        <attvalues>
+          <attvalue for="type" value="Republican"/>
+          <attvalue for="avg_sentiment" value="0.206"/>
+          <attvalue for="mentions" value="6312"/>
+        </attvalues>
+        <viz:size value="5.0"/>
+        <viz:position x="10.017329" y="-5.076278"/>
+        <viz:color r="130" g="182" b="161"/>
+      </node>
+      <node id="18" label="Gregg Jarrett">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="avg_sentiment" value="-0.229"/>
+          <attvalue for="mentions" value="131"/>
+        </attvalues>
+        <viz:size value="1.0051705"/>
+        <viz:position x="-8.766852" y="-26.658535"/>
+        <viz:color r="170" g="153" b="201"/>
+      </node>
+      <node id="3" label="Hillary Clinton">
+        <attvalues>
+          <attvalue for="type" value="Democrat"/>
+          <attvalue for="avg_sentiment" value="-0.613"/>
+          <attvalue for="mentions" value="1255"/>
+        </attvalues>
+        <viz:size value="1.7316206"/>
+        <viz:position x="-15.905971" y="6.7305126"/>
+        <viz:color r="192" g="49" b="138"/>
+      </node>
+      <node id="10" label="James Comey">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="avg_sentiment" value="-0.682"/>
+          <attvalue for="mentions" value="242"/>
+        </attvalues>
+        <viz:size value="1.0769106"/>
+        <viz:position x="-32.172104" y="7.5956187"/>
+        <viz:color r="196" g="30" b="127"/>
+      </node>
+      <node id="4" label="Joe Biden">
+        <attvalues>
+          <attvalue for="type" value="Democrat"/>
+          <attvalue for="avg_sentiment" value="-0.433"/>
+          <attvalue for="mentions" value="1189"/>
+        </attvalues>
+        <viz:size value="1.6889644"/>
+        <viz:position x="-11.607371" y="-9.94126"/>
+        <viz:color r="182" g="98" b="168"/>
+      </node>
+      <node id="20" label="Lou Dobbs">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="avg_sentiment" value="0.138"/>
+          <attvalue for="mentions" value="123"/>
+        </attvalues>
+        <viz:size value="1.0"/>
+        <viz:position x="5.6504984" y="-39.343937"/>
+        <viz:color r="138" g="188" b="180"/>
+      </node>
+      <node id="7" label="Nancy Pelosi">
+        <attvalues>
+          <attvalue for="type" value="Democrat"/>
+          <attvalue for="avg_sentiment" value="-0.517"/>
+          <attvalue for="mentions" value="381"/>
+        </attvalues>
+        <viz:size value="1.1667475"/>
+        <viz:position x="-42.320335" y="-23.408966"/>
+        <viz:color r="186" g="75" b="154"/>
+      </node>
+      <node id="9" label="Robert Mueller">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="avg_sentiment" value="-0.623"/>
+          <attvalue for="mentions" value="265"/>
+        </attvalues>
+        <viz:size value="1.0917758"/>
+        <viz:position x="-27.44622" y="-7.2692165"/>
+        <viz:color r="192" g="46" b="137"/>
+      </node>
+      <node id="17" label="Bush">
+        <attvalues>
+          <attvalue for="type" value="Republican"/>
+          <attvalue for="avg_sentiment" value="-0.424"/>
+          <attvalue for="mentions" value="132"/>
+        </attvalues>
+        <viz:size value="1.0058168"/>
+        <viz:position x="28.599085" y="4.64803"/>
+        <viz:color r="181" g="100" b="169" a="0.99607843"/>
+      </node>
+      <node id="11" label="Ivanka Trump">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="avg_sentiment" value="0.636"/>
+          <attvalue for="mentions" value="236"/>
+        </attvalues>
+        <viz:size value="1.0730329"/>
+        <viz:position x="50.620026" y="-10.172675"/>
+        <viz:color r="80" g="148" b="40"/>
+      </node>
+      <node id="12" label="Jeb Bush">
+        <attvalues>
+          <attvalue for="type" value="Republican"/>
+          <attvalue for="avg_sentiment" value="-0.624"/>
+          <attvalue for="mentions" value="234"/>
+        </attvalues>
+        <viz:size value="1.0717402"/>
+        <viz:position x="18.602133" y="16.835443"/>
+        <viz:color r="192" g="46" b="136"/>
+      </node>
+      <node id="16" label="Marco Rubio">
+        <attvalues>
+          <attvalue for="type" value="Republican"/>
+          <attvalue for="avg_sentiment" value="-0.423"/>
+          <attvalue for="mentions" value="156"/>
+        </attvalues>
+        <viz:size value="1.0213282"/>
+        <viz:position x="34.01611" y="20.379055"/>
+        <viz:color r="181" g="100" b="169"/>
+      </node>
+      <node id="13" label="Melania Trump">
+        <attvalues>
+          <attvalue for="type" value="person"/>
+          <attvalue for="avg_sentiment" value="0.662"/>
+          <attvalue for="mentions" value="201"/>
+        </attvalues>
+        <viz:size value="1.050412"/>
+        <viz:position x="66.615135" y="11.754511"/>
+        <viz:color r="77" g="146" b="33"/>
+      </node>
+      <node id="5" label="Mitt Romney">
+        <attvalues>
+          <attvalue for="type" value="Republican"/>
+          <attvalue for="avg_sentiment" value="-0.172"/>
+          <attvalue for="mentions" value="443"/>
+        </attvalues>
+        <viz:size value="1.2068186"/>
+        <viz:position x="5.58417" y="34.30395"/>
+        <viz:color r="167" g="168" b="211"/>
+      </node>
+      <node id="8" label="Ted Cruz">
+        <attvalues>
+          <attvalue for="type" value="Republican"/>
+          <attvalue for="avg_sentiment" value="-0.508"/>
+          <attvalue for="mentions" value="319"/>
+        </attvalues>
+        <viz:size value="1.1266763"/>
+        <viz:position x="21.96849" y="32.795586"/>
+        <viz:color r="186" g="77" b="155"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="6" target="2" weight="7.0"/>
+      <edge id="1" source="6" target="15" weight="2.0"/>
+      <edge id="2" source="6" target="19" weight="3.0"/>
+      <edge id="3" source="6" target="14" weight="2.0"/>
+      <edge id="4" source="6" target="1" weight="18.0"/>
+      <edge id="5" source="6" target="18" weight="6.0"/>
+      <edge id="6" source="6" target="3" weight="8.0"/>
+      <edge id="7" source="6" target="10" weight="6.0"/>
+      <edge id="8" source="6" target="4" weight="9.0"/>
+      <edge id="9" source="6" target="20" weight="4.0"/>
+      <edge id="10" source="6" target="7" weight="38.0"/>
+      <edge id="11" source="6" target="9" weight="7.0"/>
+      <edge id="12" source="2" target="15"/>
+      <edge id="13" source="2" target="17" weight="30.0"/>
+      <edge id="14" source="2" target="19" weight="5.0"/>
+      <edge id="15" source="2" target="1" weight="189.0"/>
+      <edge id="16" source="2" target="18" weight="8.0"/>
+      <edge id="17" source="2" target="3" weight="94.0"/>
+      <edge id="18" source="2" target="11"/>
+      <edge id="19" source="2" target="10" weight="13.0"/>
+      <edge id="20" source="2" target="12" weight="2.0"/>
+      <edge id="21" source="2" target="4" weight="79.0"/>
+      <edge id="22" source="2" target="20" weight="2.0"/>
+      <edge id="23" source="2" target="16" weight="10.0"/>
+      <edge id="24" source="2" target="13"/>
+      <edge id="25" source="2" target="5" weight="114.0"/>
+      <edge id="26" source="2" target="7" weight="4.0"/>
+      <edge id="27" source="2" target="9" weight="9.0"/>
+      <edge id="28" source="2" target="8" weight="3.0"/>
+      <edge id="29" source="15" target="1" weight="18.0"/>
+      <edge id="30" source="15" target="3" weight="57.0"/>
+      <edge id="31" source="15" target="4" weight="37.0"/>
+      <edge id="32" source="15" target="7"/>
+      <edge id="33" source="15" target="9" weight="2.0"/>
+      <edge id="34" source="15" target="8"/>
+      <edge id="35" source="17" target="1" weight="33.0"/>
+      <edge id="36" source="17" target="3" weight="12.0"/>
+      <edge id="37" source="17" target="12" weight="2.0"/>
+      <edge id="38" source="17" target="4"/>
+      <edge id="39" source="17" target="20" weight="2.0"/>
+      <edge id="40" source="17" target="16" weight="14.0"/>
+      <edge id="41" source="17" target="13"/>
+      <edge id="42" source="17" target="5" weight="8.0"/>
+      <edge id="43" source="17" target="8" weight="8.0"/>
+      <edge id="44" source="19" target="1" weight="3.0"/>
+      <edge id="45" source="19" target="18"/>
+      <edge id="46" source="19" target="3"/>
+      <edge id="47" source="19" target="10" weight="4.0"/>
+      <edge id="48" source="19" target="4" weight="3.0"/>
+      <edge id="49" source="19" target="16"/>
+      <edge id="50" source="19" target="7" weight="35.0"/>
+      <edge id="51" source="19" target="9"/>
+      <edge id="52" source="19" target="8"/>
+      <edge id="53" source="14" target="1" weight="25.0"/>
+      <edge id="54" source="14" target="3" weight="2.0"/>
+      <edge id="55" source="14" target="4"/>
+      <edge id="56" source="14" target="16"/>
+      <edge id="57" source="14" target="13"/>
+      <edge id="58" source="14" target="5"/>
+      <edge id="59" source="14" target="7"/>
+      <edge id="60" source="14" target="9"/>
+      <edge id="61" source="1" target="18" weight="27.0"/>
+      <edge id="62" source="1" target="3" weight="157.0"/>
+      <edge id="63" source="1" target="11" weight="17.0"/>
+      <edge id="64" source="1" target="10" weight="27.0"/>
+      <edge id="65" source="1" target="12" weight="43.0"/>
+      <edge id="66" source="1" target="4" weight="168.0"/>
+      <edge id="67" source="1" target="20" weight="23.0"/>
+      <edge id="68" source="1" target="16" weight="42.0"/>
+      <edge id="69" source="1" target="13" weight="12.0"/>
+      <edge id="70" source="1" target="5" weight="40.0"/>
+      <edge id="71" source="1" target="7" weight="27.0"/>
+      <edge id="72" source="1" target="9" weight="41.0"/>
+      <edge id="73" source="1" target="8" weight="60.0"/>
+      <edge id="74" source="18" target="3" weight="8.0"/>
+      <edge id="75" source="18" target="10" weight="8.0"/>
+      <edge id="76" source="18" target="4" weight="12.0"/>
+      <edge id="77" source="18" target="20" weight="4.0"/>
+      <edge id="78" source="18" target="7" weight="3.0"/>
+      <edge id="79" source="18" target="9" weight="6.0"/>
+      <edge id="80" source="3" target="11"/>
+      <edge id="81" source="3" target="10" weight="38.0"/>
+      <edge id="82" source="3" target="12" weight="18.0"/>
+      <edge id="83" source="3" target="4" weight="20.0"/>
+      <edge id="84" source="3" target="20" weight="3.0"/>
+      <edge id="85" source="3" target="16" weight="2.0"/>
+      <edge id="86" source="3" target="13"/>
+      <edge id="87" source="3" target="5" weight="5.0"/>
+      <edge id="88" source="3" target="7" weight="3.0"/>
+      <edge id="89" source="3" target="9" weight="30.0"/>
+      <edge id="90" source="3" target="8" weight="14.0"/>
+      <edge id="91" source="11" target="20"/>
+      <edge id="92" source="11" target="13" weight="3.0"/>
+      <edge id="93" source="10" target="4" weight="7.0"/>
+      <edge id="94" source="10" target="20" weight="5.0"/>
+      <edge id="95" source="10" target="5"/>
+      <edge id="96" source="10" target="7"/>
+      <edge id="97" source="10" target="9" weight="16.0"/>
+      <edge id="98" source="10" target="8"/>
+      <edge id="99" source="12" target="16" weight="17.0"/>
+      <edge id="100" source="12" target="5" weight="5.0"/>
+      <edge id="101" source="12" target="8" weight="10.0"/>
+      <edge id="102" source="4" target="20" weight="5.0"/>
+      <edge id="103" source="4" target="16"/>
+      <edge id="104" source="4" target="5" weight="4.0"/>
+      <edge id="105" source="4" target="7" weight="13.0"/>
+      <edge id="106" source="4" target="9"/>
+      <edge id="107" source="4" target="8" weight="3.0"/>
+      <edge id="108" source="20" target="7" weight="2.0"/>
+      <edge id="109" source="16" target="5" weight="6.0"/>
+      <edge id="110" source="16" target="8" weight="30.0"/>
+      <edge id="111" source="13" target="8" weight="3.0"/>
+      <edge id="112" source="5" target="7" weight="2.0"/>
+      <edge id="113" source="5" target="8" weight="4.0"/>
+      <edge id="114" source="7" target="9" weight="2.0"/>
+      <edge id="115" source="7" target="8"/>
+    </edges>
+  </graph>
+</gexf>
