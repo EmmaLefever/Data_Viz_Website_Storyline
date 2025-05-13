@@ -7,14 +7,12 @@
   </meta>
   <graph defaultedgetype="undirected" mode="static">
     <attributes class="node" mode="static">
-      <attribute id="type" title="type" type="string"/>
       <attribute id="avg_sentiment" title="avg_sentiment" type="double"/>
       <attribute id="mentions" title="mentions" type="integer"/>
     </attributes>
     <nodes>
       <node id="6" label="Adam Schiff">
         <attvalues>
-          <attvalue for="type" value="Democrat"/>
           <attvalue for="avg_sentiment" value="-0.696"/>
           <attvalue for="mentions" value="385"/>
         </attvalues>
@@ -24,7 +22,6 @@
       </node>
       <node id="2" label="Barack Obama">
         <attvalues>
-          <attvalue for="type" value="Democrat"/>
           <attvalue for="avg_sentiment" value="-0.514"/>
           <attvalue for="mentions" value="2327"/>
         </attvalues>
@@ -34,7 +31,6 @@
       </node>
       <node id="15" label="Bernie Sanders">
         <attvalues>
-          <attvalue for="type" value="Democrat"/>
           <attvalue for="avg_sentiment" value="-0.529"/>
           <attvalue for="mentions" value="189"/>
         </attvalues>
@@ -44,7 +40,6 @@
       </node>
       <node id="19" label="Chuck Schumer">
         <attvalues>
-          <attvalue for="type" value="Democrat"/>
           <attvalue for="avg_sentiment" value="-0.496"/>
           <attvalue for="mentions" value="129"/>
         </attvalues>
@@ -54,7 +49,6 @@
       </node>
       <node id="14" label="Dan Scavino">
         <attvalues>
-          <attvalue for="type" value="person"/>
           <attvalue for="avg_sentiment" value="0.219"/>
           <attvalue for="mentions" value="192"/>
         </attvalues>
@@ -64,7 +58,6 @@
       </node>
       <node id="1" label="Donald Trump">
         <attvalues>
-          <attvalue for="type" value="Republican"/>
           <attvalue for="avg_sentiment" value="0.206"/>
           <attvalue for="mentions" value="6312"/>
         </attvalues>
@@ -74,7 +67,6 @@
       </node>
       <node id="18" label="Gregg Jarrett">
         <attvalues>
-          <attvalue for="type" value="person"/>
           <attvalue for="avg_sentiment" value="-0.229"/>
           <attvalue for="mentions" value="131"/>
         </attvalues>
@@ -84,7 +76,6 @@
       </node>
       <node id="3" label="Hillary Clinton">
         <attvalues>
-          <attvalue for="type" value="Democrat"/>
           <attvalue for="avg_sentiment" value="-0.613"/>
           <attvalue for="mentions" value="1255"/>
         </attvalues>
@@ -94,7 +85,6 @@
       </node>
       <node id="10" label="James Comey">
         <attvalues>
-          <attvalue for="type" value="person"/>
           <attvalue for="avg_sentiment" value="-0.682"/>
           <attvalue for="mentions" value="242"/>
         </attvalues>
@@ -104,7 +94,6 @@
       </node>
       <node id="4" label="Joe Biden">
         <attvalues>
-          <attvalue for="type" value="Democrat"/>
           <attvalue for="avg_sentiment" value="-0.433"/>
           <attvalue for="mentions" value="1189"/>
         </attvalues>
@@ -114,7 +103,6 @@
       </node>
       <node id="20" label="Lou Dobbs">
         <attvalues>
-          <attvalue for="type" value="person"/>
           <attvalue for="avg_sentiment" value="0.138"/>
           <attvalue for="mentions" value="123"/>
         </attvalues>
@@ -124,7 +112,6 @@
       </node>
       <node id="7" label="Nancy Pelosi">
         <attvalues>
-          <attvalue for="type" value="Democrat"/>
           <attvalue for="avg_sentiment" value="-0.517"/>
           <attvalue for="mentions" value="381"/>
         </attvalues>
@@ -134,7 +121,6 @@
       </node>
       <node id="9" label="Robert Mueller">
         <attvalues>
-          <attvalue for="type" value="person"/>
           <attvalue for="avg_sentiment" value="-0.623"/>
           <attvalue for="mentions" value="265"/>
         </attvalues>
@@ -144,7 +130,6 @@
       </node>
       <node id="17" label="Bush">
         <attvalues>
-          <attvalue for="type" value="Republican"/>
           <attvalue for="avg_sentiment" value="-0.424"/>
           <attvalue for="mentions" value="132"/>
         </attvalues>
@@ -154,7 +139,6 @@
       </node>
       <node id="11" label="Ivanka Trump">
         <attvalues>
-          <attvalue for="type" value="person"/>
           <attvalue for="avg_sentiment" value="0.636"/>
           <attvalue for="mentions" value="236"/>
         </attvalues>
@@ -164,7 +148,6 @@
       </node>
       <node id="12" label="Jeb Bush">
         <attvalues>
-          <attvalue for="type" value="Republican"/>
           <attvalue for="avg_sentiment" value="-0.624"/>
           <attvalue for="mentions" value="234"/>
         </attvalues>
@@ -174,7 +157,6 @@
       </node>
       <node id="16" label="Marco Rubio">
         <attvalues>
-          <attvalue for="type" value="Republican"/>
           <attvalue for="avg_sentiment" value="-0.423"/>
           <attvalue for="mentions" value="156"/>
         </attvalues>
@@ -184,7 +166,6 @@
       </node>
       <node id="13" label="Melania Trump">
         <attvalues>
-          <attvalue for="type" value="person"/>
           <attvalue for="avg_sentiment" value="0.662"/>
           <attvalue for="mentions" value="201"/>
         </attvalues>
@@ -194,7 +175,6 @@
       </node>
       <node id="5" label="Mitt Romney">
         <attvalues>
-          <attvalue for="type" value="Republican"/>
           <attvalue for="avg_sentiment" value="-0.172"/>
           <attvalue for="mentions" value="443"/>
         </attvalues>
@@ -204,7 +184,6 @@
       </node>
       <node id="8" label="Ted Cruz">
         <attvalues>
-          <attvalue for="type" value="Republican"/>
           <attvalue for="avg_sentiment" value="-0.508"/>
           <attvalue for="mentions" value="319"/>
         </attvalues>
