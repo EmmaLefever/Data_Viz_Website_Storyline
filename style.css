@@ -454,7 +454,7 @@
 
 .placeholder2 {
     width: 100%;
-    display: flex;
+    display: block;
     flex-direction: column;
     gap: 10px;
 }
