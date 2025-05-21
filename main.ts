@@ -7,7 +7,7 @@ export default () => {
   let renderer: Sigma | null = null;
 
   // Load external GEXF file:
-  fetch("trump3.gexf")
+  fetch("trump4.gexf")
     .then((res) => res.text())
     .then((gexf) => {
       console.log("GEXF file loaded successfully:", gexf);

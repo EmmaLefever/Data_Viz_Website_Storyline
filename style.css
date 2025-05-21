@@ -271,7 +271,7 @@
 
 .placeholder2 {
     height: 400px;
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: center;
 }
@@ -447,16 +447,26 @@
 }
 
 #container {
-    width: 768px;
-    height: 400px;
+    width: 100%;
+    height: auto;
     margin-bottom: 20px;
+    min-height: 400px;
+    box-sizing: border-box;
+    position: relative;
 }
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    }
 
 .placeholder2 {
     width: 100%;
-    display: block;
+    display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 20px;
+    align-items: center;
+    padding: 1rem 0;
 }
 
 #controls {
@@ -464,10 +474,14 @@
     flex-wrap: wrap;
     gap: 20px;
     align-items: center;
-    margin-bottom: 10px;
-    padding: 0 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding: 1rem;
     color: #555;
     font-size: 18px;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 800px;
 }
 
 
@@ -493,6 +507,16 @@
 #labels-threshold {
     width: 160px;
     max-width: 100%;
+}
+
+.sentiment-legend2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    margin: 10px auto 20px;
+    gap: 5px;
 }
 
 
