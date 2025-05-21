@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
-  <meta lastmodifieddate="2025-05-13">
+  <meta lastmodifieddate="2025-05-21">
     <creator>Gephi 0.10.1</creator>
     <title></title>
     <description></description>
@@ -27,7 +27,7 @@
         </attvalues>
         <viz:size value="12.410083"/>
         <viz:position x="0.8206427" y="43.451275"/>
-        <viz:color r="186" g="76" b="154"/>
+        <viz:color r="213" g="90" b="161"/>
       </node>
       <node id="15" label="Bernie Sanders">
         <attvalues>
@@ -36,7 +36,7 @@
         </attvalues>
         <viz:size value="6.1919537"/>
         <viz:position x="-60.235523" y="58.293255"/>
-        <viz:color r="187" g="72" b="152" a="0.99607843"/>
+        <viz:color r="211" g="85" b="158" a="0.99607843"/>
       </node>
       <node id="19" label="Chuck Schumer">
         <attvalues>
@@ -45,7 +45,7 @@
         </attvalues>
         <viz:size value="6.0174503"/>
         <viz:position x="-156.16246" y="-58.603096"/>
-        <viz:color r="185" g="81" b="157"/>
+        <viz:color r="214" g="97" b="164"/>
       </node>
       <node id="14" label="Dan Scavino">
         <attvalues>
@@ -54,7 +54,7 @@
         </attvalues>
         <viz:size value="6.200679"/>
         <viz:position x="82.146904" y="-74.54287"/>
-        <viz:color r="128" g="181" b="157"/>
+        <viz:color r="188" g="214" b="172"/>
       </node>
       <node id="1" label="Donald Trump">
         <attvalues>
@@ -63,7 +63,7 @@
         </attvalues>
         <viz:size value="24.0"/>
         <viz:position x="23.011274" y="-10.248284"/>
-        <viz:color r="130" g="182" b="161"/>
+        <viz:color r="191" g="216" b="176"/>
       </node>
       <node id="18" label="Gregg Jarrett">
         <attvalues>
@@ -72,7 +72,7 @@
         </attvalues>
         <viz:size value="6.0232673"/>
         <viz:position x="-23.72978" y="-63.95184"/>
-        <viz:color r="170" g="153" b="201"/>
+        <viz:color r="238" g="190" b="218"/>
       </node>
       <node id="3" label="Hillary Clinton">
         <attvalues>
@@ -81,7 +81,7 @@
         </attvalues>
         <viz:size value="9.292293"/>
         <viz:position x="-41.49419" y="19.130789"/>
-        <viz:color r="192" g="49" b="138"/>
+        <viz:color r="204" g="56" b="141"/>
       </node>
       <node id="10" label="James Comey">
         <attvalues>
@@ -90,7 +90,7 @@
         </attvalues>
         <viz:size value="6.346098"/>
         <viz:position x="-81.969536" y="21.283451"/>
-        <viz:color r="196" g="30" b="127"/>
+        <viz:color r="198" g="31" b="127"/>
       </node>
       <node id="4" label="Joe Biden">
         <attvalues>
@@ -99,7 +99,7 @@
         </attvalues>
         <viz:size value="9.10034"/>
         <viz:position x="-30.7979" y="-22.353918"/>
-        <viz:color r="182" g="98" b="168"/>
+        <viz:color r="220" g="119" b="177"/>
       </node>
       <node id="20" label="Lou Dobbs">
         <attvalues>
@@ -108,7 +108,7 @@
         </attvalues>
         <viz:size value="6.0"/>
         <viz:position x="12.145202" y="-95.51719"/>
-        <viz:color r="138" g="188" b="180"/>
+        <viz:color r="208" g="226" b="197"/>
       </node>
       <node id="7" label="Nancy Pelosi">
         <attvalues>
@@ -117,7 +117,7 @@
         </attvalues>
         <viz:size value="6.7503633"/>
         <viz:position x="-107.22158" y="-55.865875"/>
-        <viz:color r="186" g="75" b="154"/>
+        <viz:color r="212" g="89" b="160"/>
       </node>
       <node id="9" label="Robert Mueller">
         <attvalues>
@@ -126,7 +126,7 @@
         </attvalues>
         <viz:size value="6.4129906"/>
         <viz:position x="-70.21002" y="-15.705016"/>
-        <viz:color r="192" g="46" b="137"/>
+        <viz:color r="203" g="52" b="139"/>
       </node>
       <node id="17" label="Bush">
         <attvalues>
@@ -135,7 +135,7 @@
         </attvalues>
         <viz:size value="6.0261755"/>
         <viz:position x="69.248634" y="13.948905"/>
-        <viz:color r="181" g="100" b="169" a="0.99607843"/>
+        <viz:color r="221" g="122" b="179" a="0.99607843"/>
       </node>
       <node id="11" label="Ivanka Trump">
         <attvalues>
@@ -144,7 +144,7 @@
         </attvalues>
         <viz:size value="6.3286476"/>
         <viz:position x="124.04378" y="-22.929749"/>
-        <viz:color r="80" g="148" b="40"/>
+        <viz:color r="83" g="150" b="41"/>
       </node>
       <node id="12" label="Jeb Bush">
         <attvalues>
@@ -153,7 +153,7 @@
         </attvalues>
         <viz:size value="6.3228307"/>
         <viz:position x="44.373013" y="44.27509"/>
-        <viz:color r="192" g="46" b="136"/>
+        <viz:color r="203" g="52" b="139"/>
       </node>
       <node id="16" label="Marco Rubio">
         <attvalues>
@@ -162,7 +162,7 @@
         </attvalues>
         <viz:size value="6.095977"/>
         <viz:position x="82.72791" y="53.09273"/>
-        <viz:color r="181" g="100" b="169"/>
+        <viz:color r="221" g="122" b="179"/>
       </node>
       <node id="13" label="Melania Trump">
         <attvalues>
@@ -180,7 +180,7 @@
         </attvalues>
         <viz:size value="6.9306836"/>
         <viz:position x="11.980156" y="87.742325"/>
-        <viz:color r="167" g="168" b="211"/>
+        <viz:color r="243" g="210" b="229"/>
       </node>
       <node id="8" label="Ted Cruz">
         <attvalues>
@@ -189,7 +189,7 @@
         </attvalues>
         <viz:size value="6.5700436"/>
         <viz:position x="52.749588" y="83.98903"/>
-        <viz:color r="186" g="77" b="155"/>
+        <viz:color r="213" g="92" b="162"/>
       </node>
     </nodes>
     <edges>
