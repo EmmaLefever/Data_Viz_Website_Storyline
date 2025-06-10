@@ -529,5 +529,38 @@ canvas {
     gap: 5px;
 }
 
+/* CSS for site note */
+.site-note {
+    background-color: #f9f9f9;
+    border-top: 2px solid #ccc;
+    padding: 30px 20px;
+    margin-top: 60px;
+    font-size: 15px;
+    color: #555;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+}
+
+.site-note h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.site-note ul {
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.site-note ul li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+.site-note p {
+    line-height: 1.6;
+}
 
 
